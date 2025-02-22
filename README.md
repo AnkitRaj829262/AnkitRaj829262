@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @AnkitRaj829262
-- 👀 I’m interested in Inovative works ...
-- 🌱 I’m currently learning how to  built a  multi billionaire  company...
-- 💞️ I’m looking to collaborate with google as a my one of them ...
-- 📫 How to reach me but you never do this because i am form india ...
-- 😄 Pronouns: ME {Father}...
-- ⚡ Fun fact: you mother is my second one of them but 👌 ...
+# Hi there! 👋  
+### I'm [Your Name]  
 
-<!---
-AnkitRaj829262/AnkitRaj829262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **About Me:**  
+- 🎓 AI Student | 7th Semester  
+- 🌍 Exploring Jharkhand | Web Developer  
+- 💻 Passionate about AI, Full-Stack Development & Open Source  
+- 📫 Reach me at: [Your Email] | [Your LinkedIn]  
+
+🔧 **Tech Stack:**  
+- **Languages:** Python, JavaScript, C++  
+- **Frontend:** HTML, CSS, Tailwind, React  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **AI/ML:** TensorFlow, PyTorch, OpenCV  
+
+📊 **GitHub Stats:**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+
+🌟 **Featured Projects:**  
+1. [Explore Jharkhand](https://github.com/your-github/explore-jharkhand) 🌍  
+2. [AI Chatbot](https://github.com/your-github/ai-chatbot) 🤖  
+
+💡 **Fun Fact:** I love debugging more than coding! 😄  
